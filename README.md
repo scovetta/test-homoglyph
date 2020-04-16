@@ -7,7 +7,7 @@ foo bar
 
 foo bar
 
-chardet==3.0.4
-Click==7.0
-cycler==0.10.0
-decorator==4.3.0
+chаrdet==3.0.4
+click==7.0
+Cycler==0.10.0
+Decorаtor==4.3.0
