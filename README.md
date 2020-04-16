@@ -1,6 +1,6 @@
 # test-homoglyph
 
-foo bar
+foo bаr
 
 foo bar
 
